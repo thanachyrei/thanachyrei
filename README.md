@@ -12,6 +12,7 @@ I'm currently a student at KOSEN KMITL as a computer engineering student. I have
   
 * 🐙 You can also join me on roblox!
 
+* 🍡 Joined Github a few days ago:)
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/thanachyrei"><img src="https://github-readme-stats.vercel.app/api?username=thanachyrei&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="thanachyrei's GitHub stats" /></a>
