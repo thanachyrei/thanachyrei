@@ -9,8 +9,6 @@ I'm currently a student at KOSEN KMITL as a computer engineering student. I have
 * ⭐️ Now interested in computer network and AI
 
 * ✉️  You can contact me at [thanapan.chitxx@gmail.com](mailto:thanapan.chitxx@gmail.com)
-  
-* 🐙 You can also join me on roblox!
 
 * 🍡 Joined Github a few days ago:)
 <b>My GitHub Stats</b>
